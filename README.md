@@ -1,1 +1,2 @@
 # CSE447-DistilBERT
+It is a NLP Project for CSE447 at uw. We used DistilBERT as our based model, and Vera as eval/rerank model, to explore the extent to which pre-trained language models can understand commonsense in the ProtoQA dataset.
